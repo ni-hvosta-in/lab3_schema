@@ -1,1 +1,1 @@
-![Схема](schema.svg "Схема")
+![Схема](schema_with_logical.drawio.svg "Схема")
